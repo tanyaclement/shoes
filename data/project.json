@@ -1,21 +1,81 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "tanyaclement",
+    "is_private": false,
+    "title": "Shoes",
+    "description": "Shoes is a 1916 silent drama film directed by Lois Weber and starring Mary MacLaren.",
+    "language": "en",
+    "slug": "shoes",
+    "creator": "tanyaclement",
+    "authors": "Zoe Bursztajn-Illingworth and Luke Sumpter, edited by Tanya Clement",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Editing",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dissolve",
+          "category": "Editing"
+        },
+        {
+          "tag": "Dissolve",
+          "category": "Editing"
+        },
+        {
+          "tag": "Fade",
+          "category": "Editing"
+        },
+        {
+          "tag": "Fade",
+          "category": "Editing"
+        },
+        {
+          "tag": "Superimposition",
+          "category": "Editing"
+        },
+        {
+          "tag": "Superimposition",
+          "category": "Editing"
+        },
+        {
+          "tag": "Fade",
+          "category": "Editing"
+        },
+        {
+          "tag": "Graphic match",
+          "category": "Editing"
+        },
+        {
+          "tag": "Graphic match",
+          "category": "Editing"
+        },
+        {
+          "tag": "Superimposition",
+          "category": "Editing"
+        },
+        {
+          "tag": "intertitle",
+          "category": "_uncategorized_"
+        }
+      ]
+    },
+    "created_at": "2024-11-05T18:36:28.030Z",
+    "updated_at": "2024-11-05T18:36:28.030Z"
   }
 }
