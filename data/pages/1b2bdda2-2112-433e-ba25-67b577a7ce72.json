@@ -3,10 +3,10 @@
   "created_at": "2024-11-05T18:36:28.073Z",
   "created_by": "tanyaclement",
   "title": "Shoes",
-  "updated_at": "tanyaclement",
-  "updated_by": "2024-11-05T18:36:28.073Z",
+  "updated_at": "2024-11-07T15:44:32.466Z",
+  "updated_by": "tanyaclement",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
