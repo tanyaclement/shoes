@@ -1,5 +1,216 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 45,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here we see a dissolve used to indicate that this is a distance in time, not necessarily an oddity of mental faculty; however, it does seem that because it is foreshadowing a place, that this could be an effect of memory rather than complete foreshadowing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dissolve",
+          "category": "Editing"
+        }
+      ],
+      "uuid": "208cdf75-264a-4772-9d1a-2448c5a1c020"
+    },
+    {
+      "start_time": 57,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We, then, dissolve back to the present. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dissolve",
+          "category": "Editing"
+        }
+      ],
+      "uuid": "80e4b270-47cd-4c7f-a93b-482a24ca80a6"
+    },
+    {
+      "start_time": 286,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Through this fade out, the director seems to be referencing silent film diction surrounding the idea that a fade indicates a large amount of time going out compared to the clear-cut changes of scenes used previously. This fade is preparing us for the time distance between her getting sick and some of her restless nights that will appear right after. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fade",
+          "category": "Editing"
+        }
+      ],
+      "uuid": "d3b2ebee-09d0-43f3-a481-78bc3fdbb907"
+    },
+    {
+      "start_time": 301,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here is where the fade comes back in, and we begin the dreaming sequence. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fade",
+          "category": "Editing"
+        }
+      ],
+      "uuid": "c259fd74-770c-4807-9a29-81707515cd56"
+    },
+    {
+      "start_time": 303,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here we get the first case of superimposition, layering the father laying on his bed while reading over the main character's struggling sleep. This indicates that what we are seeing is a dream, and due to her frantic nature, she is showing us that she feels uneasy. This indicates that she is unhappy with her father's situation at a deeper level than intellectual, and goes to show a later theme that poverty is not just a physical issue for the main character, but a mental one. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Superimposition",
+          "category": "Editing"
+        }
+      ],
+      "uuid": "4aa2ca33-35c1-43bb-b8ef-45ca24a4cbf8"
+    },
+    {
+      "start_time": 314,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, in continuation of the superimposition, we see a large hand with the word \"poverty\" written on it reaching down to grab the main character. This indicates, as continued with the dream or nightmarish thoughts, that she is losing control of her life due to poverty and her father's lack of a job.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Superimposition",
+          "category": "Editing"
+        }
+      ],
+      "uuid": "a0735cd1-835c-488d-9941-96fdae963a5d"
+    },
+    {
+      "start_time": 329,
+      "end_time": 329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fade out"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fade",
+          "category": "Editing"
+        }
+      ],
+      "uuid": "6fe5b400-e09f-4bef-b24d-a56b054ee61e"
+    },
+    {
+      "start_time": 589,
+      "end_time": 589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The image dissolves, leaving the \"new\" and desired shoes in the new frame. This indicates the mental observation or faculty of the main character in her latest attempt at accepting her place in poverty, as she struggles to mentally accept that she continues to not have a replacement for her broken shoes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Graphic match",
+          "category": "Editing"
+        }
+      ],
+      "uuid": "81c1ab99-4fda-49e2-8a19-53dc26d25797"
+    },
+    {
+      "start_time": 596,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, the return of the dissolve to the old and broken shoes, or this type of graphic match, indicates that this, indeed, was merely a mental trick or desire of the main character's, and the return to the real world is just as cruel as she remembers. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Graphic match",
+          "category": "Editing"
+        }
+      ],
+      "uuid": "81e83ff7-2f49-462a-b34b-faf7d7b56849"
+    },
+    {
+      "start_time": 1003,
+      "end_time": 1003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While not a direct type of editing, this emphatic framing of the main character hints at an image much like what would be conveyed with superimposition, as it creates almost two pairs of images like we saw with the example of superimposition earlier on. We are now able to see her in two perspectives; the one in the mirror, broken and looking as if a portrait or someone who will be forgotten to history, and two, her present self, as she presents more illegible. This indicates that through all of her trials and attempts at being happy, this symbolizes a solidified defeat. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Superimposition",
+          "category": "Editing"
+        }
+      ],
+      "uuid": "5ad0b025-e6eb-4345-83d6-048964941826"
+    }
+  ],
   "set": "Default",
   "event_id": "ea374d84-8291-4627-835e-2130e8ab9195",
   "source_id": "75e8d6ca-3be2-4498-ba20-833b0207a0b7"
