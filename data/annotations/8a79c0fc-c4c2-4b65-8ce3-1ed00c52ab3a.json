@@ -1,5 +1,342 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 19,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sadly, she imagined a different life one filled with luxury and pleasure. Provides exposition for previous POV sequence with the shoes and transitions to ballroom sequence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "438c6a83-5b79-4058-8ba8-2fa4bc48910b"
+    },
+    {
+      "start_time": 60,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wednesday and Thursday in contined to rain. Establishes timeline of events."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "d361b157-0b58-4488-ad7f-d877beb3e56f"
+    },
+    {
+      "start_time": 89,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There they were.../Her shoes!/Poor child, she knew / them by heart. Narration as free indirect discourse that precedes close-up of desired object (the shoes), creating a narrative frame for the close-up as a POV shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "488e95e5-8e99-4512-a70f-c99e5f05a6de"
+    },
+    {
+      "start_time": 146,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Other men find work!\" dialogue spoken by mother to father, advances characterization of father as a bum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "cfad8b20-125a-42c5-810c-8f4e89d8eca5"
+    },
+    {
+      "start_time": 167,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Every evening she scraped the caked mud from her bare, swollen feet. Exposition that creates pathos for the protagonist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "819d7611-f80b-4210-8d4a-68648b37d1b9"
+    },
+    {
+      "start_time": 237,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She caught a bad cold. Her throat hurt / and her head ached. Exposition creating pathos. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "a95d4251-42b7-4c2c-96b9-95073f762876"
+    },
+    {
+      "start_time": 291,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes she lay awake / in the night--wide-eyed--/ thinking of the fate of / her family. Provides exposition and explanation of the fantastically personified Hand of Poverty in the next shot. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "774fd72a-bc60-487b-8648-2ec73b20d750"
+    },
+    {
+      "start_time": 332,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By Saturday she was so / utterly miserable that it / seemed she could hardly / live until that night when / she would get her / new shoes. Exposition establishes timeline and also uses free indirect discourse to frame the next sequence and its exchange. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interitle"
+        }
+      ],
+      "uuid": "cee5fa7f-78c6-4e7b-92db-7f38d92ecae8"
+    },
+    {
+      "start_time": 659,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At last it was time to receive the blessed pay envelope. Exposition establishing timeline and mood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "8d0d2ceb-6fa3-485a-b04c-683302a1ec4c"
+    },
+    {
+      "start_time": 775,
+      "end_time": 775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Aren't you going to me / the three dollars, Mama?\" dialogue as exposition for previous exhange. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "d05351aa-4dd7-42f5-a3ad-d303023f316b"
+    },
+    {
+      "start_time": 780,
+      "end_time": 780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I can't do it, child. We got to eat / and no one will let us have / any thing more except / for cash.\" Dialogue explaining core narrative problem from mother's perspective and the issue of debt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "f62ab977-9a02-41b3-80eb-cb9abcc8ed79"
+    },
+    {
+      "start_time": 793,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I've got to have a new pair of shoes.\" Dialogue to father."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "1573cbb5-5bdc-4793-a726-111f13bedcba"
+    },
+    {
+      "start_time": 813,
+      "end_time": 813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I'll be sure to find some / work, and I'll give you / the money then.\" Dialogue after father shows off his broken shoes, establishes family power dynamic and reason for poverty. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "ffa1ee8d-8268-40ca-b00b-c87470d68214"
+    },
+    {
+      "start_time": 840,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We haven't tasted / meat all week, mother.\" Dialogue from younger siblings expresses pathos and desperation, and basic needs as trumping commodity culture and personal need."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "f2e1638a-c4b7-4348-b3d4-9205821530b9"
+    },
+    {
+      "start_time": 911,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was only a matter / of hours before they would / literally fall to pieces. / She felt that the end / had come. Exposition with free indirect discourse. It also parallels the fate of the object (her broken shoes) with the individual's mind and the narrative conclusion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "43b5b1df-60a6-45fb-ae9a-a23edb3e1710"
+    },
+    {
+      "start_time": 1125,
+      "end_time": 1125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Give me carefare, mama. I'm going to Lil's / over Sunday.\" Dialogue as exposition that establishes that the protagonist lies to her mother because the next sequence at The Blue Goose."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Intertitle"
+        }
+      ],
+      "uuid": "24161caf-2b4c-4f9c-93a5-590496ea65a0"
+    }
+  ],
   "set": "Default",
   "event_id": "fc54cb5f-5a67-4e44-9ad5-7f7644d05fee",
   "source_id": "81c6cd75-cd24-4ebd-bd8f-993b9214ab1c"
